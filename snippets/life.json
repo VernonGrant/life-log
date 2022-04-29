@@ -1,0 +1,17 @@
+{
+    "date": {
+        "prefix": "ld",
+        "body": [
+            "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "$0"
+        ],
+        "description": "Insert date line"
+    },
+    "time": {
+        "prefix": "lt",
+        "body": [
+            "$CURRENT_HOUR:$CURRENT_MINUTE T #$0"
+        ],
+        "description": "Insert new task"
+    }
+}
