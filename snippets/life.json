@@ -2,18 +2,10 @@
     "date": {
         "prefix": "ld",
         "body": [
-            "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE",
+            "$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE:",
             "$0"
         ],
-        "description": "Insert date stamp"
-    },
-    "inbox": {
-        "prefix": "li",
-        "body": [
-            "INBOX:",
-            "$0"
-        ],
-        "description": "Insert inbox heading"
+        "description": "Insert date heading"
     },
     "task": {
         "prefix": "lt",

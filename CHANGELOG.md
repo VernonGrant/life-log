@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.3] - 2022-04-29
+### Changed
+- Changed date heading format.
+- Added some more keywords.
+
 ## [1.0.2] - 2022-04-29
 ### Added
 - New inbox keyword.

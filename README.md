@@ -8,7 +8,7 @@ and still need to do.
 
 #### All there is to know:
 
-- Date: `0000-00-00`
+- Heading Keywords: `0000-00-00:`, `INBOX:`, `WAITING:`, `FINANCES:`
 - Time: `00:00`
 - Todo: `T`
 - Done: `D`
