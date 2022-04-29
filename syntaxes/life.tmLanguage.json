@@ -11,7 +11,7 @@
 			"patterns": [
 				{
 					"name": "markup.heading.life",
-					"match": "^\\d{4}-\\d{2}-\\d{2}\\R"
+					"match": "^(\\d{4}-\\d{2}-\\d{2}|INBOX:)\\R"
 				},
 				{
 					"name": "keyword.control.life",
@@ -19,15 +19,15 @@
 				},
 				{
 					"name": "markup.deleted.life",
-					"match": "[[:blank:]]T[[:blank:]]"
+					"match": "(^|[[:blank:]])T[[:blank:]]"
 				},
 				{
 					"name": "meta.embedded.life markup.strikethrough.life",
-					"match": "[[:blank:]]D[[:blank:]]"
+					"match": "(^|[[:blank:]])D[[:blank:]]"
 				},
 				{
 					"name": "markup.italic.life markup.inserted.life",
-					"match": "#[[:word:]]+"
+					"match": "#([[:word:]]|-)+"
 				}
 			]
 		}
