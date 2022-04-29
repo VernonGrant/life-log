@@ -1,0 +1,25 @@
+{
+    "name": "life-log",
+    "displayName": "Life Log",
+    "description": "Syntax highlighting for life log.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "life",
+            "aliases": ["Life", "life"],
+            "extensions": [".life"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "life",
+            "scopeName": "source.life",
+            "path": "./syntaxes/life.tmLanguage.json"
+        }]
+    }
+}
