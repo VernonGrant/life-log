@@ -22,7 +22,7 @@
 					"match": "(^|[[:blank:]])T[[:blank:]]"
 				},
 				{
-					"name": "meta.embedded.life markup.strikethrough.life",
+					"name": "meta.embedded.life markup.strikethrough.life comment",
 					"match": "(^|[[:blank:]])D[[:blank:]]"
 				},
 				{

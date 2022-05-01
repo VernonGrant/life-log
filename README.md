@@ -18,3 +18,4 @@ and still need to do.
 
 - Insert date line: `ld`
 - Insert new task: `lt`
+- Insert new task with current time: `lt`
