@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.5] - 2022-05-02
+### Changed
+- Changed waiting to goals keyword.
+- Fixed readme mistake.
+
 ## [1.0.3] - 2022-04-29
 ### Changed
 - Changed date heading format.
