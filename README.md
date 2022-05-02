@@ -8,7 +8,7 @@ and still need to do.
 
 #### All there is to know:
 
-- Heading Keywords: `0000-00-00:`, `INBOX:`, `WAITING:`, `FINANCES:`
+- Heading Keywords: `0000-00-00:`, `INBOX:`, `GOALS:`, `FINANCES:`
 - Time: `00:00`
 - Todo: `T`
 - Done: `D`
@@ -18,4 +18,4 @@ and still need to do.
 
 - Insert date line: `ld`
 - Insert new task: `lt`
-- Insert new task with current time: `lt`
+- Insert new task with current time: `ltt`
