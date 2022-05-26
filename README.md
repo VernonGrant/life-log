@@ -8,14 +8,19 @@ and still need to do.
 
 #### All there is to know:
 
-- Heading Keywords: `0000-00-00:`, `INBOX:`, `GOALS:`, `FINANCES:`
+- Heading Keywords:
+    - `0000-00-00:`
+    - `INBOX:`
+    - `ON-HOLD:`
+    - `GOALS:`
+    - `FINANCES:`
 - Time: `00:00`
 - Todo: `T`
 - Done: `D`
-- Tags: `#tag`
+- Tags: `#my-tag-name`
 
 #### Available Snippets:
 
-- Insert date line: `ld`
+- Insert date heading with todays date: `ld`
 - Insert new task: `lt`
-- Insert new task with current time: `ltt`
+- Insert new task with timestamp: `ltt`

@@ -1,7 +1,7 @@
 {
     "name": "life-log",
     "displayName": "Life Log",
-    "description": "Syntax highlighting for life log.",
+    "description": "Syntax highlighting for agenda and task management method, life log.",
     "icon": "img/icon.png",
     "publisher": "VernonGrant",
     "homepage": "https://github.com/VernonGrant/life-log",
@@ -10,7 +10,7 @@
         "url": "https://github.com/VernonGrant/life-log"
     },
     "bugs": "https://github.com/VernonGrant/life-log/issues",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "author": {
         "email": "vernon@ruppell.io",
         "name": "Vernon Grant",

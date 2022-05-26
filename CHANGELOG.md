@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.6] - 2022-05-26
+### Changed
+- Changed package description.
+### Added
+- Added line comments.
+
 ## [1.0.5] - 2022-05-02
 ### Changed
 - Changed waiting to goals keyword.

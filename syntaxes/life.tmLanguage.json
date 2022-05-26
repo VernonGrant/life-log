@@ -10,8 +10,12 @@
 		"expression": {
 			"patterns": [
 				{
+					"name":"comment.line comment",
+					"match": "\/\/.+"
+				},
+				{
 					"name": "markup.heading.life",
-					"match": "^(\\d{4}-\\d{2}-\\d{2}:|INBOX:|FINANCES:|GOALS:)\\R"
+					"match": "^(\\d{4}-\\d{2}-\\d{2}:|INBOX:|ON-HOLD:|GOALS:|FINANCES:)\\R"
 				},
 				{
 					"name": "keyword.control.life",
