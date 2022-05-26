@@ -11,7 +11,7 @@
 			"patterns": [
 				{
 					"name":"comment.line comment",
-					"match": "\/\/.+"
+					"match": "(?<!http:|https:)\/\/.+"
 				},
 				{
 					"name": "markup.heading.life",

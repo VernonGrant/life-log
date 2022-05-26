@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.7] - 2022-05-26
+### Fixed
+- Line comments regex.
+
 ## [1.0.6] - 2022-05-26
 ### Changed
 - Changed package description.
